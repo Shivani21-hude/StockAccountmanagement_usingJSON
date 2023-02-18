@@ -1,0 +1,19 @@
+{
+  "stockdetails": [
+    {
+      "StockName": "Google",
+      "StockPrice": "250",
+      "NoOfShares": "20000"
+    },
+    {
+      "StockName": "Amazon",
+      "StockPrice": "150",
+      "NoOfShares": "15000"
+    },
+    {
+      "StockName": "AMD",
+      "StockPrice": "200",
+      "NoOfShares": "15000"
+    }
+  ]
+}
